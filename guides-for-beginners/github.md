@@ -72,7 +72,7 @@ git merge <branch_name>        # Merge a branch into the current branch
 - For more advanced operations (conflict resolution in certain edge cases, interactive rebase, or stashes), the CLI might be more transparent.
 
 ---
-
+```
 ### Some Suggestions for Reference Materials
 
 - [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
