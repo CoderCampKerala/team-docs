@@ -65,16 +65,16 @@ git pull          # Pull changes from remote to local
 git checkout -b <branch_name>  # Create and switch to a new branch
 git merge <branch_name>        # Merge a branch into the current branch
 
-
+```
 - Mastering these basics is the key to understanding Git, even if we use a GUI later.
 - Then use GitHub Desktop or the Git panel in VS Code.
 - For quick commits and everyday tasks,the VS Code interface or GitHub Desktop can be more convenient.
 - For more advanced operations (conflict resolution in certain edge cases, interactive rebase, or stashes), the CLI might be more transparent.
 
 ---
-```
+
 ### Some Suggestions for Reference Materials
 
 - [Git, GitHub, & GitHub Desktop for beginners](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
-- [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
+- [How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
 - [Official Git Documentation](https://git-scm.com/doc)
