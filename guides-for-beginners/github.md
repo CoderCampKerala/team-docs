@@ -1,14 +1,14 @@
 
 **Core Git Concepts**
 
-These core git concepts need to be understood thorough online resources :
+These core git concepts need to be understood through online resources:
 
-Git
-Local vs Remote Repositories
-Clone
-Commit
-Branch
-Merge
+Git\
+Local vs Remote Repositories\
+Clone\
+Commit\
+Branch\
+Merge\
 Pull/Push
 
 Git can be used through several interfaces:
@@ -27,7 +27,7 @@ Option 1: Git CLI (Command Line Interface)
 Option 2: Github Desktop
 
 - Pros:\
-    Beginner-friendly, has a simple UI to visualize changes and commits.\
+    Beginner-friendly, with a simple UI to visualize changes and commits.\
     Easy to set up and start pushing/pulling to GitHub.\
 
 - Cons:
@@ -43,10 +43,9 @@ Option 3: VS Code's Integrated Git
     Like GitHub Desktop, may hide Git's deeper mechanics
 
 
-
 ***Our Recommendation:***
 
-Learn Git CLI (at least the minimal commands), to ensure you're not entirely dependent on a GUI. You should know what’s actually happening when you use GUI. And then you will be far more comfortable debugging Git issues in the future
+Learn Git CLI (at least the minimal commands), to ensure you're not entirely dependent on a GUI. You should know what’s actually happening when you use a GUI. This understanding will make you far more comfortable debugging Git issues in the future.
 
 basic commands:\
     git init / git clone\
@@ -54,8 +53,7 @@ basic commands:\
     git add\
     git commit -m "message"\
     git push / git pull\
-    git checkout -b branch_name / git merge\
-    branch_name\
+    git checkout -b branch_name / git merge branch_name
 
 - Mastering these basics is the key to understanding Git, even if we use a GUI later
 - Then use Github Desktop/ Git panel in VS code.
