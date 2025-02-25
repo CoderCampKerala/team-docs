@@ -4,4 +4,5 @@ This repository serves as a central location for our team's documentation, guide
 It's designed to help us collaborate more effectively by providing easy access to essential information.
 
 ### Index
-- [Git](/guides-for-beginners/github.md)
+- [Git](/guide-for-concepts/github.md)
+- [Portfolio-project](/guide-for-tasks/portfolio-project.md)
