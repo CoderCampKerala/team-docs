@@ -6,3 +6,5 @@ It's designed to help us collaborate more effectively by providing easy access t
 ### Index
 - [Git](/guide-for-concepts/github.md)
 - [Portfolio-project](/guide-for-tasks/portfolio-project.md)
+- [Javascript basics][/guide-for-concepts/javascript-basics.md]
+- [Todo-app][/guide-for-tasks/todo-app.md]
