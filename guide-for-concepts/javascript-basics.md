@@ -14,16 +14,17 @@ Learning Objectives
    * Writing clean, readable, and maintainable code
    * Basic debugging and using the browser console
    * Organizing scripts and separating concerns (HTML, CSS, and JavaScript)
+
 Recommended Study Resources
 
-* - [MDN Web Docs (Official Documentation):] (https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) 
+- [MDN Web Docs (Official Documentation):](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) 
 
  Learn Web Development - Core (Focus on the sections covering JavaScript basics and DOM manipulation. You can skip the “Extension modules” for now.)
 
-* - [Learn JavaScript Online:] (https://learnjavascript.online/) 
+- [Learn JavaScript Online:](https://learnjavascript.online/) 
 
 Offers an interactive way to learn; the first 77 chapters are free.
 
-* - [Scrimba - Learn JavaScript:] (https://scrimba.com/learn-javascript-c0v) 
+- [Scrimba - Learn JavaScript:](https://scrimba.com/learn-javascript-c0v) 
 
 Contains bite-sized lessons and interactive coding challenges.
