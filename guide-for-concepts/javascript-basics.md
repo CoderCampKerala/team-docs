@@ -17,13 +17,13 @@ Learning Objectives
 
 Recommended Study Resources
 
-- [MDN Web Docs (Official Documentation):](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core) 
+- [MDN Web Docs (Official Documentation):](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting) 
 
  Learn Web Development - Core (Focus on the sections covering JavaScript basics and DOM manipulation. You can skip the “Extension modules” for now.)
 
 - [Learn JavaScript Online:](https://learnjavascript.online/) 
 
-Offers an interactive way to learn; the first 77 chapters are free.
+Offers an interactive way to learn; the first 7 chapters are free.
 
 - [Scrimba - Learn JavaScript:](https://scrimba.com/learn-javascript-c0v) 
 
